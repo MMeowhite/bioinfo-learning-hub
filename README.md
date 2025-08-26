@@ -36,7 +36,7 @@
 
 ## 📂 仓库结构
 
-
+```markdown
 bioinfo-learning-hub/
 │
 ├── basics/         # 生信基础脚本与原理教学
@@ -48,7 +48,7 @@ bioinfo-learning-hub/
 ├── environment.yml # Conda 环境配置（Python + R）
 ├── Dockerfile      # 容器化支持（可选）
 └── README.md
-
+```
 
 ---
 
